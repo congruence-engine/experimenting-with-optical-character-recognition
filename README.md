@@ -9,17 +9,17 @@ The purpose of this repo is to collect details about various efforts across the 
 
 ## People 
 
-Max Long: Investigation, Data curation, Formal analysis, Methodology, Writing
+**Max Long**: Investigation, Data curation, Formal analysis, Methodology, Writing
  
-Natasha Kitcher : Investigation, Data curation, Formal analysis, Methodology, Writing
+**Natasha Kitcher**: Investigation, Data curation, Formal analysis, Methodology, Writing
 
-Daniel Belteki: Investigation, Data curation, Formal analysis, Methodology, Writing
+**Daniel Belteki**: Investigation, Data curation, Formal analysis, Methodology, Writing
 
-Alex Butterworth : Investigation, Methodology
+**Alex Butterworth**: Investigation, Methodology
 
-Nayomi Kasthuri Arachchi : Software
+**Nayomi Kasthuri Arachchi**: Software
 
-Felix Needham-Simpson : Software 
+**Felix Needham-Simpson**: Software 
 
 
 
