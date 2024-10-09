@@ -23,20 +23,6 @@ The purpose of this repo is to collect details about various efforts across the 
 
 
 
-## Data sources (used or developed)
-- Worralls trade directory and other trade directories
-- Weekly Wool Chart
-- 1871 River Pollution report
-
-
-## Investigation methods/ tools/ code/ software (used or developed)
-ABBYY, Surya, Tesseract, LLM vision models 
-
-
-
-## Outputs  
-Google colab notebooks
-
 
 
 ## Licence 
