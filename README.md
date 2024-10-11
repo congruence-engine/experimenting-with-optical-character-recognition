@@ -30,7 +30,10 @@ The purpose of this repo is to collect details about various efforts across the 
 
 
 ## Investigation methods/ tools/ code/ software (used or developed)
-ABBYY, Surya, Tesseract, LLM vision models 
+- ABBYY 
+- Surya
+- Tesseract
+- LLM vision models 
 
 
 
