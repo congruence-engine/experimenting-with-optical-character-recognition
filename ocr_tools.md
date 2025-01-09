@@ -15,3 +15,4 @@ Below is a list of OCR tools that we used during experiments to test Optical Cha
 - [doctr](https://github.com/mindee/doctr)
 - [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
 - [OCR4All](https://github.com/OCR4all/OCR4all)
+- [LlamaParse](https://docs.llamaindex.ai/en/stable/llama_cloud/llama_parse/)
