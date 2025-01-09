@@ -23,3 +23,4 @@ Below is a list of tools that the _Congruence Engine_ project used during experi
 - [Qwen-VL](https://github.com/QwenLM/Qwen-VL)
 - [Florence 2](https://huggingface.co/microsoft/Florence-2-large)
 - [Google Document AI](https://cloud.google.com/document-ai?hl=en)
+- [Mini-CPM-V](https://github.com/OpenBMB/MiniCPM-V)
