@@ -1,6 +1,6 @@
 # OCR Tools - a list
 
-Below is a list of OCR tools that the _Congruence Engine_ project used during experiments to test Optical Character Recognition technology on historic documents:
+Below is a list of tools that the _Congruence Engine_ project used during experiments to test Optical Character Recognition technology on historic documents:
 - [ABBYY FineReader](https://pdf.abbyy.com/)
 - [Tesseract](https://github.com/tesseract-ocr/tesseract)
 - [Transkribus](https://www.transkribus.org/)
@@ -17,3 +17,8 @@ Below is a list of OCR tools that the _Congruence Engine_ project used during ex
 - [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
 - [OCR4All](https://github.com/OCR4all/OCR4all)
 - [LlamaParse](https://docs.llamaindex.ai/en/stable/llama_cloud/llama_parse/)
+- [Google Gemini](https://gemini.google.com/app)
+- [ChatGPT](https://openai.com/index/chatgpt/)
+- [Phi-3.5-Vision](https://huggingface.co/microsoft/Phi-3.5-vision-instruct)
+- [Qwen-VL](https://github.com/QwenLM/Qwen-VL)
+- [Florence 2](https://huggingface.co/microsoft/Florence-2-large)
