@@ -30,10 +30,11 @@ The purpose of this repo is to collect details about various efforts across the 
 
 
 ## Investigation methods/ tools/ code/ software (used or developed)
-- ABBYY 
-- Surya
-- Tesseract
-- LLM vision models 
+- ABBYY FineReader
+- [Surya](https://github.com/VikParuchuri/surya)
+- [Tesseract](https://github.com/tesseract-ocr/tesseract)
+- LLM vision models
+- [Complete list of OCR tools consulted](https://github.com/congruence-engine/experimenting-with-optical-character-recognition/blob/main/ocr_tools.md)
 
 
 
