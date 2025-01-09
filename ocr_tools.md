@@ -3,6 +3,7 @@
 Below is a list of OCR tools that the _Congruence Engine_ project used during experiments to test Optical Character Recognition technology on historic documents:
 - [ABBYY FineReader](https://pdf.abbyy.com/)
 - [Tesseract](https://github.com/tesseract-ocr/tesseract)
+- [Transkribus](https://www.transkribus.org/)
 - [GOT-OCR](https://github.com/Ucas-HaoranWei/GOT-OCR2.0)
 - [ocrmac](https://github.com/straussmaximilian/ocrmac)
 - [Surya](https://github.com/VikParuchuri/surya)
