@@ -34,6 +34,7 @@ The purpose of this repo is to collect details about various efforts across the 
 - [Surya](https://github.com/VikParuchuri/surya)
 - [Tesseract](https://github.com/tesseract-ocr/tesseract)
 - LLM vision models
+- [Complete list of OCR tools consulted](https://github.com/congruence-engine/experimenting-with-optical-character-recognition/blob/main/ocr_tools.md)
 
 
 
