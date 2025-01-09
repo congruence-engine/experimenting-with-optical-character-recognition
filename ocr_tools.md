@@ -22,3 +22,4 @@ Below is a list of tools that the _Congruence Engine_ project used during experi
 - [Phi-3.5-Vision](https://huggingface.co/microsoft/Phi-3.5-vision-instruct)
 - [Qwen-VL](https://github.com/QwenLM/Qwen-VL)
 - [Florence 2](https://huggingface.co/microsoft/Florence-2-large)
+- [Google Document AI](https://cloud.google.com/document-ai?hl=en)
