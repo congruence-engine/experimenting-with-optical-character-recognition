@@ -1,0 +1,24 @@
+Process the following list of manufacturers and output a CSV file with the following columns: Companies, Addresses, Company Types, and Bracketed Information. The Company Types should be extracted from the headings in the input text (e.g., 'BLANKET MANUFACTURERS', 'bleachers'). For items where there are no brackets, write 'none' in the Bracketed Information column. Some items will include commas in the values - in such cases enclose the value in double-quote characters. Pay attention to business names that end in 'Ltd' or 'Limited', and ensure that this is included in the companies field. Do not include any other text in your response, including explanations, preambles etc. 
+
+## **Example input**:
+
+BLANKET MANUFACTURERS.
+Atkinson John & Sons, Watson Mills, Sowerby Bridge
+Beaumont Joseph, junior, (and rug), Colne Mill, Slaithwaite, near Huddersfield
+
+bleachers.
+Crabtree William & Sons, Ltd. (and dyers), Westfield Mills, Dewsbury
+
+## **Expected CSV output**:
+
+Companies,Addresses,Company Types,Bracketed Information
+Atkinson John & Sons,"Watson Mills, Sowerby Bridge",Blanket Manufacturers,none
+"Beaumont Joseph, junior","Colne Mill, Slaithwaite, near Huddersfield",Blanket Manufacturers,(and rug)
+"Crabtree William & Sons, Ltd.","Westfield Mills, Dewsbury",bleachers,(and dyers)
+
+## **Steps**:
+
+1. Identify and extract the company name, address, and any bracketed information.
+2. Extract the Company Types from the headings in the input text (e.g., 'BLANKET MANUFACTURERS', 'bleachers').
+3. If no bracketed information is present, write 'none' in the Bracketed Information column.
+4. Format the output as a CSV file.
