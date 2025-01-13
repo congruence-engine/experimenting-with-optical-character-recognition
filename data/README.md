@@ -17,7 +17,7 @@ The file [Worralls_Companies_v10_Standardized.xlsx](https://github.com/congruenc
 
 This dataset was created by using the following workflow:
 1. Manual photography of the original images, using a smartphone camera - [see example for 1910](https://github.com/congruence-engine/experimenting-with-optical-character-recognition/tree/main/data/worralls_1910_images)
-2. OCR carried out using Surya, resulting in a series of .txt files - [available here]()
+2. OCR carried out using Surya, resulting in a series of .txt files - [available here](https://github.com/congruence-engine/experimenting-with-optical-character-recognition/tree/main/data/worralls_1889_1940_txt_files)
 3. Conversion of .txt files into csv format, using OpenAI's GPT API - [see code here](https://github.com/congruence-engine/experimenting-with-optical-character-recognition/blob/main/code/Surya/gpt_post_processing.ipynb). Note that this code uses a custom [prompt](https://github.com/congruence-engine/experimenting-with-optical-character-recognition/blob/main/code/Surya/gpt_prompt.txt) and [system prompt](https://github.com/congruence-engine/experimenting-with-optical-character-recognition/blob/main/code/Surya/system_text.txt). 
 4. Manual correction of errors introduced as part of the above processes, including:
     * Entries missed out by Surya due to the small print of the input text
